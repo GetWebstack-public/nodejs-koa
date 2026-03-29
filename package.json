@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-koa",
+  "version": "0.0.1",
+  "dependencies": {
+    "koa": "^2.15.0",
+    "@koa/router": "^12.0.0"
+  }
+}
